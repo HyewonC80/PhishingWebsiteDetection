@@ -38,8 +38,3 @@ UCI Machine Learning Repository의 Website Phishing 데이터셋을 활용하여
 - MLP Classifier
 - SVM
 - AutoEncoder
-
-## 실행 방법
-
-```bash
-pip install -r requirements.txt
