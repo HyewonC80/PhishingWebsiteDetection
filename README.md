@@ -38,3 +38,9 @@ UCI Machine Learning Repository의 Website Phishing 데이터셋을 활용하여
 - MLP Classifier
 - SVM
 - AutoEncoder
+
+## Publications
+**Comparative Study on Performance and Interpretability of Phishing Website Detection Models Using AutoML and XAI Techniques**
+
+- Korean Institute of Electronic Commerce Conference (2025)
+- Co-author
